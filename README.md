@@ -23,7 +23,7 @@
 *April 2024*
 * Conducted data cleaning and data preprocessing on the network traffic dataset from Wireshark
 * Performed Exploratory Data Analysis to gain insights on relationship between the independent features and the target value
-* Trained and evaluated models using Logistic Regression, XGBost and Dense Netwoork to predict DDoS Attack
+* Trained and evaluated models using Logistic Regression, XGBost and Dense Netwoork to predict DDoS Attacks
 * Optimized models with applying various hyperparameter tuning techniques
 
 ![Alt text](https://github.com/aidos-askhatuly/DDos_attack_detection/blob/main/pics/Results.png)
