@@ -33,7 +33,7 @@
 * Analyzed hotel reviews to identify factors contributing to customer satisfaction and dissatisfaction, aiming to improve hotel services and ratings
 * Utilized Natural Language Processing techniques, specifically Bag of Words, to convert text data into numerical features for sentiment analysis
 * Utilized n-grams and stemming for more meaningful multi-word indicators.
-* Achieved 78.8% accuracy and an AUC score of 86.7%, indicating good discrimination between positive and negative reviews
+* Develop classification models that achieved 78.8% accuracy and an AUC score of 86.7%, indicating good discrimination between positive and negative reviews
 * Identified top 20 positive words that reliably indicate guest satisfaction and top 20 negative words that indicate gust complaints
 
 ![Alt text](https://github.com/aidos-askhatuly/Hotel-Review-Sentiment-Analysis/blob/main/pic/Hotel_Review_Results.png)
