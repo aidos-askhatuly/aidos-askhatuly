@@ -19,7 +19,7 @@
 
 <h2> Projects </h2>
 
-### <span>Data Science</span> | <a href=https://github.com/aidos-askhatuly/DDos_attack_detection>Predicting Distirbuted DoS Attack with A Machine Learning Algorithms </a>
+### <span> Data Science </span> | <a href=https://github.com/aidos-askhatuly/DDos_attack_detection>Predicting Distirbuted DoS Attack with A Machine Learning Algorithms </a>
 *April 2024*
 * Conducted data cleaning and data preprocessing on the network traffic dataset from Wireshark
 * Performed Exploratory Data Analysis to gain insights on relationship between the independent features and the target value
@@ -27,3 +27,13 @@
 * Optimized models with applying various hyperparameter tuning techniques
 
 ![Alt text](https://github.com/aidos-askhatuly/DDos_attack_detection/blob/main/pics/Results.png)
+
+### <span> Data Science </span> | <a href=https://github.com/aidos-askhatuly/Hotel-Review-Sentiment-Analysis> Hotel Review Sentiment Analysis </a>
+*March 2024*
+* Analyzed hotel reviews to identify factors contributing to customer satisfaction and dissatisfaction, aiming to improve hotel services and ratings
+* Utilized Natural Language Processing techniques, specifically Bag of Words, to convert text data into numerical features for sentiment analysis
+* Utilized n-grams and stemming for more meaningful multi-word indicators.
+* Achieved 78.8% accuracy and an AUC score of 86.7%, indicating good discrimination between positive and negative reviews
+* Identified top 20 positive words that reliably indicate guest satisfaction and top 20 negative words that indicate gust complaints
+
+![Alt text](https://github.com/aidos-askhatuly/Hotel-Review-Sentiment-Analysis/blob/main/pic/Hotel_Review_Results.png)
