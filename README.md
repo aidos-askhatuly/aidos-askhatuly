@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aidos</h1>
-<h3 align="center">Data Scientist with software engineering background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidos-askhatuly&label=Profile%20views&color=0e75b6&style=flat" alt="aidos-askhatuly" /> </p>
 
