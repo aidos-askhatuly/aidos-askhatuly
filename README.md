@@ -24,8 +24,6 @@
 * Trained and evaluated models using Logistic Regression, XGBost and Dense Netwoork to predict DDoS Attacks
 * Optimized models with applying various hyperparameter tuning techniques
 
-![Alt text](https://github.com/aidos-askhatuly/DDos_attack_detection/blob/main/pics/Results.png)
-
 ### <span> Data Science </span> | <a href=https://github.com/aidos-askhatuly/Hotel-Review-Sentiment-Analysis> Hotel Review Sentiment Analysis </a>
 * Analyzed hotel reviews to identify factors contributing to customer satisfaction and dissatisfaction, aiming to improve hotel services and ratings
 * Utilized Natural Language Processing techniques, specifically Bag of Words, to convert text data into numerical features for sentiment analysis
